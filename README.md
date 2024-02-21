@@ -54,7 +54,7 @@ Matrices Complejas
  
 En esta librería aparecen 3 archivos que el usuario puede usar
 
-- ***TallerCplx** -> Es el código de programación donde el usuario puede interactuar e ingresar todos los datos que sea calcular.
+- ***TallerCplx*** -> Es el código de programación donde el usuario puede interactuar e ingresar todos los datos que sea calcular.
 - ***.gitignore*** -> Es el archivo que excluye lo que no queremos que se suba al repositorio GITHUB.
 - ***README.md*** -> Es el archivo de texto de la librería.
 
