@@ -1,0 +1,43 @@
+# Directorios y archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Entornos virtuales (si los utilizas)
+venv/
+env/
+*.env
+
+# Archivos de registro y caché
+*.log
+*.log.*
+logs/
+*.sqlite3
+*.sqlite
+
+# Archivos de configuración
+*.ini
+*.cfg
+
+# Archivos de salida y compilación
+*.o
+*.out
+*.dll
+*.so
+*.dylib
+
+# Archivos de datos generados
+*.csv
+*.json
+*.xml
+
+# Archivos de respaldo y temporales
+*.bak
+*.swp
+*~
+
+# Archivos de entorno y variables
+.env
+
