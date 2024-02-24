@@ -1,4 +1,4 @@
-# Librería operaciones de vectores y matrices complejas.
+# Librería operaciones de vectores y matrices complejas, incluidos los cuadernos de Jupyter.
 ## Autora: Alexandra Moreno Latorre
 
 Librería creada con el objetivo de realizar operaciones matemáticas de vectores y matrices complejas.
@@ -52,12 +52,14 @@ Matrices Complejas
 ### Archivos
 
  
-En esta librería aparecen 3 archivos que el usuario puede usar
+En esta librería aparecen 6 archivos que el usuario puede usar
 
-- ***TallerCplx*** -> Es el código de programación donde el usuario puede interactuar e ingresar todos los datos que sea calcular.
+- ***TallerCplx*** -> Es el código de programación donde el usuario puede interactuar e ingresar todos los datos que sea calcular, aquín se encuentran las 18 funciones solicitadas en moodle, para practicar las operaciones.
 - ***.gitignore*** -> Es el archivo que excluye lo que no queremos que se suba al repositorio GITHUB.
 - ***README.md*** -> Es el archivo de texto de la librería.
+- ***Complex_Vector_Matrix_Operations_with_NumPy*** -> Es el archivo que contiene la explicación y los ejercicios de las operaciones de matrices y vectores complejos.
+- ***TallerEsp.Vect-Hermitian-Unitary-Tensor-Circuits*** -> Este archivo contiene el taller de los vectores y matrices unitarias, producto tensor, entre otros.
+- ***TallerEsp.Vect-ProdInterno-VectoPropios*** -> En este archivo se encuentra el otro taller, donde se trabajaron los temas de espacios vectoriales, producto interno, y vectores propios.
 
 ## Requisitos para usar el sistema
-
-Debe de poseer una versión a ***Python*** superior a 3.5, adicionalmente debe de poseer la librería numpy instalada.
+Se debe instalar el laboratorio de Jupyter, la librería ***matplotlib***,la librería ***NumPy*** y preferiblemente se deben abrir los documentos en pycharm, ya que es más cómodo trabajar en ese programa y la instalación de todos los requisitos es muy sencilla y es rápida.
